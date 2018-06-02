@@ -2,7 +2,24 @@
 	background:#313461;
 	border-color:#313461;
 }
+section {
+    padding: 100px;
+}
 
+#content {
+    background: url('../img/content.jpg') top left no-repeat;
+    background-size: cover;
+    color: black;
+    text-align: center;
+}
+
+
+#team {
+    background: url('../img/fan.jpg') top left no-repeat;
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
 .jumbotron{     background: #333 url('../img/bg.jpg') -400px -200px;
 color:#000;     text-align: center;     border-bottom: 5px #f4f4f4 solid; }
 
@@ -40,3 +57,5 @@ color:#000;     text-align: center;     border-bottom: 5px #f4f4f4 solid; }
 	border-bottom:blue 3px solid;
 	margin-bottom:0;
 }
+
+
